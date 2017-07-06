@@ -1,0 +1,224 @@
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\ApplicationInsights.config
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csc.exe
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csc.exe.config
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csc.rsp
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csi.exe
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csi.rsp
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.AppContext.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.IO.FileSystem.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\vbc.exe
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\vbc.exe.config
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\vbc.rsp
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\VBCSCompiler.exe
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\WebExercicioEntrevista.dll.config
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\WebExercicioEntrevista.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\WebExercicioEntrevista.pdb
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Antlr3.Runtime.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.Web.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.ApplicationInsights.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Newtonsoft.Json.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Helpers.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Mvc.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Optimization.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Razor.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.Deployment.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.Razor.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\WebGrease.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Helpers.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Mvc.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Optimization.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Razor.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.Deployment.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.Razor.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Antlr3.Runtime.pdb
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Newtonsoft.Json.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.ApplicationInsights.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.Web.xml
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.Helpers.resources.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.Mvc.resources.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.Optimization.resources.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.Razor.resources.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.WebPages.resources.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\obj\Debug\WebExercicioEntrevista.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\obj\Debug\WebExercicioEntrevista.dll
+c:\users\sergio\documents\visual studio 2017\Projects\WebExercicioEntrevista\WebExercicioEntrevista\obj\Debug\WebExercicioEntrevista.pdb
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\ApplicationInsights.config
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csc.exe
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csc.exe.config
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csc.rsp
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csi.exe
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csi.rsp
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.AppContext.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.Collections.Immutable.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.IO.FileSystem.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\vbc.exe
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\vbc.exe.config
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\vbc.rsp
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\VBCSCompiler.exe
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\VBCSCompiler.exe.config
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\WebExercicioEntrevista.dll.config
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\WebExercicioEntrevista.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\WebExercicioEntrevista.pdb
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Antlr3.Runtime.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.DependencyCollector.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.Web.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.WindowsServer.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.ApplicationInsights.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.Web.Infrastructure.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Newtonsoft.Json.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Helpers.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Mvc.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Optimization.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Razor.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.Deployment.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.Razor.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\WebGrease.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Helpers.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Mvc.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Optimization.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Razor.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.Deployment.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.Razor.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Antlr3.Runtime.pdb
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Newtonsoft.Json.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.ApplicationInsights.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.DependencyCollector.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.WindowsServer.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.Web.xml
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.Razor.resources.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\obj\Debug\WebExercicioEntrevista.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\obj\Debug\WebExercicioEntrevista.dll
+C:\Desenvolvimento\WebExercicioEntrevista\WebExercicioEntrevista\obj\Debug\WebExercicioEntrevista.pdb
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\ApplicationInsights.config
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csc.exe.config
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csc.rsp
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csi.exe
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\csi.rsp
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.AppContext.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.IO.FileSystem.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\vbc.exe.config
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\vbc.rsp
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\WebExercicioEntrevista.dll.config
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\WebExercicioEntrevista.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\WebExercicioEntrevista.pdb
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Antlr3.Runtime.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.Agent.Intercept.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.DependencyCollector.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.Web.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.WindowsServer.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.ApplicationInsights.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Optimization.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\WebGrease.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Optimization.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Antlr3.Runtime.pdb
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.ApplicationInsights.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.DependencyCollector.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.WindowsServer.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\Microsoft.AI.Web.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.Helpers.resources.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.Mvc.resources.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.Optimization.resources.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.Razor.resources.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.WebPages.resources.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\obj\Debug\WebExercicioEntrevista.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\obj\Debug\WebExercicioEntrevista.pdb
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Net.Http.Formatting.dll
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\bin\System.Net.Http.Formatting.xml
+C:\inetpub\wwwroot\WebExercicioEntrevista\WebExercicioEntrevista\obj\Debug\WebExercicioEntrevista.csprojResolveAssemblyReference.cache

@@ -1,0 +1,125 @@
+﻿@model WebExercicioEntrevista.Models.mvImagem
+
+@{
+    ViewBag.Title = "Visualizar";
+    string id = Request.QueryString["id"];
+}
+
+@Styles.Render("~/Content/css")
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+@Scripts.Render("~/bundles/modernizr")
+
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>exerciciolayout</title>
+
+</head>
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Consultas Veicular", "Index", "Veiculos",new { @class = "navbar-brand" })
+
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3>Visualizar</h3>
+            </div>
+            <div class="col-xs-12"><br /></div>
+        </div>
+        <div class="col-md-12">
+            <div class="form-group">
+                <label for="example-text-input" class="col-xs-2 col-form-label" hidden>id:@id </label>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="example-text-input" class="col-xs-12 col-form-label" style="font-size:15px">
+                    Placa:
+                    <label id="placa" style="font-weight:lighter"></label>
+                </label>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="example-text-input" class="col-xs-12 col-form-label" style="font-size:15px">
+                    Proprietario:
+                    <label id="proprietario" style="font-weight:lighter"></label>
+                </label>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="example-text-input" class="col-xs-12 col-form-label" style="font-size:15px">
+                    Tipo de Veiculo:
+                    <label id="tipo_veiculo" style="font-weight:lighter"></label>
+                </label>
+            </div>
+        </div>
+        <div class="col-md-12">
+            @{
+                int codigo = Convert.ToInt32(id);
+            }
+
+            @foreach (var item in Model.L_Imagem)
+            {
+                if (item.Id == codigo)
+                {
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td hidden>item.Id</td>
+                                <td><img src="~/veiculos/image/@codigo" class="img-responsive"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                }
+            }
+        </div>
+    </div>
+</body>
+</html>
+<script type="text/javascript">
+    $(function () {
+       $.get("http://192.168.78.2/api/v1/public/veiculos", function (data, status) {
+           var tamanho = data.length;
+           var placa;
+           var proprietario;
+           var tipo_veiculo;
+
+           for (i = 0; i < tamanho; i++) {
+               if (data[i].id == @id ){
+                   placa = data[i].placa;
+                   proprietario = data[i].proprietario;
+                   tipo_veiculo = data[i].tipo_Veiculo;
+               }
+           }
+           $("#placa").text(placa);
+           $("#proprietario").text(proprietario);
+           $("#tipo_veiculo").text(tipo_veiculo);
+      })
+    });
+</script>

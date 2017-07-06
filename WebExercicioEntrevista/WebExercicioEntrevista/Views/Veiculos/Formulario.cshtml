@@ -1,0 +1,113 @@
+﻿@model WebExercicioEntrevista.Models.mvCadastroVeiculo
+
+@{
+    ViewBag.Title = "Formulario";
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <title>ExercicioLayout</title>
+
+</head>
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Consultas Veicular", "Index", "Veiculos", new { @class = "navbar-brand" })
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3>Cadastro de Veiculos</h3>
+            </div>
+            <div class="col-xs-12"><br /></div>
+        </div>
+        @using (Html.BeginForm("Formulario", "Veiculos", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true)
+            <div class="col-md-6">
+                <div class="form-group">
+                    <button type="submit" class="btn btn-default" id="SalvarForm">Salvar</button>
+                    @Html.ActionLink("Cancelar", "Index", "Veiculos", new { @class = "btn btn-default", @id = "CancelarForm" })
+                </div>
+
+                <div class="form-group">
+                    <div hidden>
+                        @Html.LabelFor(model => model.CadastroVeiculo.id)
+                    </div>
+                <div id="codigo" hidden>@ViewBag.contador</div>
+            </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.CadastroVeiculo.placa)
+                    @Html.TextBoxFor(model => model.CadastroVeiculo.placa, "", new { @class = "form-control", @placeholder = "Placa" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.CadastroVeiculo.tipo_veiculo)
+                    @Html.DropDownListFor(model => model.CadastroVeiculo.tipo_veiculo, ViewData["lista"] as List<SelectListItem>, new { @class = "form-control" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.CadastroVeiculo.proprietario)
+                    @Html.TextBoxFor(model => model.CadastroVeiculo.proprietario, "", new { @class = "form-control", @placeholder = "Proprietario" })
+                </div>
+
+                <div class="form-group">
+                    <label for="InputFile">Entrada de arquivos:</label>
+                    <input multiple type="file" name="files" id="exampleInputFile" value="Browse">
+                    <p class="help-block">Adicione as fotos do veiculo nesse campo</p>
+                </div>
+            </div>
+      }
+    </div>
+</body>
+</html>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#SalvarForm").click(function(){
+            var codigo = @ViewBag.contador;
+            var placa = $("#CadastroVeiculo_placa").val();
+            var tipo_veiculo = $("#CadastroVeiculo_tipo_veiculo").val();
+            var proprietario = $("#CadastroVeiculo_proprietario").val();
+
+            var cadastroveiculos = JSON.stringify({
+                Id: codigo,
+                Placa: placa,
+                Tipo_Veiculo: tipo_veiculo,
+                Proprietario: proprietario
+            });
+
+            $.ajax({
+                type: 'post',
+                url: 'http://192.168.78.2/api/v1/public/veiculo',
+                data: cadastroveiculos,
+                contentType: 'application/json',
+                dataType: 'json',
+                success: function (e) {
+                    alert("Informações salvas com sucesso");
+                }
+            });
+        });
+    });
+</script>

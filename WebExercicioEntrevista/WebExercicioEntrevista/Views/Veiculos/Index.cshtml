@@ -1,0 +1,133 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <title>ExercicioLayout</title>
+
+</head>
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Consultas Veicular</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3>Lista de Veiculos</h3>
+            </div>
+            <div class="col-xs-12"><br /></div>
+        </div>
+        <div class="row">
+            <div class="col-md-1">
+                @Html.ActionLink("Novo", "Formulario", "Veiculos", new { @class = "btn btn-default" })
+            </div>
+            <div class="col-md-12"><br /></div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <table id="tb_veiculos" class="table-responsive">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Placa</th>
+                            <th>Tipo de Veiculo</th>
+                            <th>Proprietario</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td><a href="#">Excluir</a></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<script type="text/javascript">
+
+    $(function () {
+        var qtd;
+        var codigo;
+        var placa;
+        var tipo_veiculo;
+        var proprietario;
+        var tabela = $("#tb_veiculos");
+        var rows = '';
+
+        $.get("http://192.168.78.2/api/v1/public/veiculos", function (data, status) {
+            this.qtd = data.length;
+            this.retorno = '';
+
+            tabela.find("tbody td").remove();
+            for (i = 0; i < this.qtd; i++) {
+                rows += "<tr>";
+                rows += "<td data-id='id'  style='font-weight:bolder;color:black'>" + data[i].id + "</td>";
+                rows += "<td>" + data[i].placa + "</td>";
+                rows += "<td>" + data[i].tipo_Veiculo + "</td>";
+                rows += "<td>" + data[i].proprietario + "</td>";
+                rows += "<td><a href='#' class='btnVisualizar'>Visualizar</a></td>"
+                rows += "<td><a href='#' class='btnExcluir'>Excluir</a></td>"
+                rows += "</tr>"
+            }
+            tabela.find("tbody").html(rows);
+
+            $(".btnExcluir").bind("click", Excluir);
+
+            function Excluir() {
+                var codigo = $(this).closest('tr').find('td[data-id]').text();
+                var id = codigo;
+
+                $.ajax({
+                    url: "http://192.168.78.2/api/v1/public/veiculo",
+                    type: 'delete',
+                    contentType: 'application/json',
+                    dataType: 'json',
+                    data: id,
+                    success: function (msg) {
+                        location.reload();
+                    }
+                });
+            };
+
+            $(".btnVisualizar").bind("click", Visualizar);
+
+            function Visualizar() {
+                var codigo = $(this).closest('tr').find('td[data-id]').text();
+                $("a.btnVisualizar").prop('href', 'http://192.168.0.107/Veiculos/Visualizar?id=' + codigo);
+            };
+        });
+    });
+</script>
+
